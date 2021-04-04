@@ -1,6 +1,6 @@
-![Evjeny's GitHub stats](https://github-readme-stats.vercel.app/api?username=evjeny&count_private=true)
+![Evjeny's GitHub stats](https://github-readme-stats.vercel.app/api?username=evjeny&count_private=true&theme=react)
 
-[![Evjeny's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@evjeny)](https://github.com/anuraghazra/github-readme-stats)
+[![Evjeny's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@evjeny&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋
 
