@@ -1,3 +1,7 @@
+![Evjeny's GitHub stats](https://github-readme-stats.vercel.app/api?username=evjeny&count_private=true)
+
+[![Evjeny's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@evjeny)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Hi there 👋
 
 * 🔭 I'm currently working on [AI-Tonometry](https://t.me/ai_tonometry_bot) in Faraday Lab team
