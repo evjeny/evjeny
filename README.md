@@ -1,6 +1,6 @@
-![Evjeny's GitHub stats](https://github-readme-stats.vercel.app/api?api_domain=wakapi.vasilenko.fun&username=evjeny&count_private=true&range=last_30_days&theme=react)
+![Evjeny's GitHub stats](https://github-readme-stats.vercel.app/api?api_domain=wakatime.com&username=evjeny&count_private=true&range=last_30_days&theme=react)
 
-[![Evjeny's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?api_domain=wakapi.vasilenko.fun&username=evjeny&range=last_30_days)](https://github.com/anuraghazra/github-readme-stats)
+[![Evjeny's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=evjeny)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋
 
@@ -9,4 +9,4 @@
 * 👯 I’m looking to collaborate on some BCI project
 * 💬 Ask me about entrepreneurship
 * 📫 How to reach me: [Telegram](https://t.me/de_evjeny)
-* ⚡ Fun fact: life becomes colorful when you've finished your linear algebra homework
+* 
