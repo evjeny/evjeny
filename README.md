@@ -6,8 +6,3 @@
 * 🌱 I'm currently studying Deep learning
 * 👯 I’m looking to collaborate on some BCI project
 * 💬 Ask me about entrepreneurship
-* 📫 How to reach me: [Telegram](https://t.me/de_evjeny)
-
-### Languages used
-
-[![Evjeny's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=evjeny)](https://github.com/anuraghazra/github-readme-stats)
